@@ -3,6 +3,7 @@
 #include <string>
 #include <limits>
 #include "Player.h"
+#include "Player.cpp"
 
 std::vector<Player> players;
 
